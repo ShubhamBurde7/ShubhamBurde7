@@ -1,4 +1,4 @@
-![Head](./github-header-image.png)
+![github-header-image](https://github.com/user-attachments/assets/5b616198-f7b8-48a4-b677-61d3eb5abeaa)
 <h1 align="center">Hi 👋, I'm Shubham Burde</h1>
 <h3 align="center">A passionate Frontend Developer, Cloud Enthusiast and Data Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
