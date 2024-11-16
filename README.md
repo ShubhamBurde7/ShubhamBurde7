@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/user-attachments/assets/5b616198-f7b8-48a4-b677-61d3eb5abeaa)
+![github-header-image (2)](https://github.com/user-attachments/assets/35ea2516-ccdd-4bd4-82cc-9890ea51cf95)
 <h1 align="center">Hi 👋, I'm Shubham Burde</h1>
 <h3 align="center">A passionate Cloud Enthusiast, Data Engineer and Web Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")>
